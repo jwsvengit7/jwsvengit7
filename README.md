@@ -13,8 +13,10 @@ I have a strong background in cloud computing and extensive experience in archit
 #### Skills & Technologies
 
 - Cloud Platforms: Azure, Google Cloud
-- Cloud Architecture: Serverless Computing, Microservices, Containerization
-- Web Development: JavaScript, TypeScript, jQuery, Ajax, React, Vue, Node.js, Express, PHP, Laravel
+- Cloud Architecture: Serverless Computing, Microservices,SOA, Containerization
+- Frontend: HTML - CSS, JavaScript 
+- Framework: React - TypeScript, Vue, jQuery, Ajax
+- Backend: Node.js - Express, PHP - CodeIgniter - Laravel
 - Java Ecosystem: Java, Spring Boot, J2EE
 - DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
