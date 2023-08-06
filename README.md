@@ -18,7 +18,6 @@ I have a strong background in cloud computing and extensive experience in archit
 - Java Ecosystem: Java, Spring Boot, J2EE
 - DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
-- Big Data: Apache Hadoop, Spark
 
 
 
