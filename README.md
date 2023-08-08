@@ -17,6 +17,7 @@ I have a strong background in cloud computing and extensive experience in archit
 - Frontend: HTML - CSS, JavaScript 
 - Framework: React - TypeScript, Vue, jQuery, Ajax
 - Backend: Node.js - Express, PHP - CodeIgniter - Laravel
+- Mobile App: Flutter (NATIVE), Apache Cordova (HYBRID)
 - Java Ecosystem: Java, Spring Boot, J2EE
 - DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
@@ -28,7 +29,7 @@ I have a strong background in cloud computing and extensive experience in archit
 I am deeply passionate about leveraging cloud technologies and software development to build scalable and high-performance applications. 
 My expertise in cloud architecture and DevOps practices enables me to deliver robust and reliable solutions that meet business objectives. I enjoy collaborating with cross-functional teams, mentoring junior developers, and driving continuous improvement within the organization.
 
-⚡ Fun fact: I'm a coffee enthusiast and enjoy exploring specialty coffee shops around the world!
+⚡ Fun fact: I'm a Tech enthusiast and enjoy exploring specialty in software engineering company around the world!
 
 Let's connect and discuss exciting about projects or anything related to web/app development. Feel free to reach out to me if you're looking for a Senior Frontend/backend/cloud expert or simply want to geek out about the latest tech trends!
 
