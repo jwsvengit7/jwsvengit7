@@ -16,8 +16,8 @@ I have a strong background in cloud computing and extensive experience in archit
 - Cloud Architecture: Serverless Computing, Microservices,SOA, Containerization
 - Frontend: HTML - CSS, JavaScript 
 - Framework: React - TypeScript, Vue, jQuery, Ajax
-- Backend: Node.js - Express, PHP - CodeIgniter - Laravel
-- Mobile App: Flutter (NATIVE), Apache Cordova (HYBRID)
+- Backend: Node.js - Express, PHP - Laravel
+- Mobile App: Flutter, Apache Cordova (HYBRID)
 - Java Ecosystem: Java, Spring Boot, J2EE
 - DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
