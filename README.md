@@ -34,3 +34,7 @@ My expertise in cloud architecture and DevOps practices enables me to deliver ro
 Let's connect and discuss exciting about projects or anything related to web/app development. Feel free to reach out to me if you're looking for a Senior Frontend/backend/cloud expert or simply want to geek out about the latest tech trends!
 
 Let's build and deploy exceptional cloud-powered applications together! 🚀
+
+
+
+https://camo.githubusercontent.com/622c91991697538486e6cb655ed8e181da744ad6d2c63e8f79cbb7d949c92b2d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d717565656e6f6368616e79616162696368652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
