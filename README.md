@@ -35,4 +35,8 @@ Let's connect and discuss exciting about projects or anything related to web/app
 
 Let's build and deploy exceptional cloud-powered applications together! 🚀
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwsvengit7&show_icons=true&locale=en&layout=compact" alt="jwsvengit7" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwsvengit7&show_icons=true&locale=en" alt="jwsvengit7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=**jwsvengit7**&" alt="jwsvengit7" /></p>
