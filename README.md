@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jackson, a Senior Software Engineer and passionate developer with a focus on cloud technologies.
+I'm Jackson, a Senior Software Engineer and passionate developer with a focus on cloud technologies and Software Engineer.
 
 - 🔭 I’m currently working on a cutting-edge Flutter Mobile app, leveraging the power of cloud computing.
 - 💬 Ask me about cloud architecture, serverless computing, microservices, and anything related to web development!
@@ -8,7 +8,12 @@ I'm Jackson, a Senior Software Engineer and passionate developer with a focus on
 
 #### About Me
 
-I have a strong background in cloud computing and extensive experience in architecting, deploying, and managing cloud-based solutions. As a Senior Cloud Engineer, I am proficient in various cloud platforms, including AWS, Azure, and Google Cloud, and I thrive on designing scalable and cost-effective cloud architectures.
+I have a strong background in cloud computing and extensive experience in architecting, deploying, and managing cloud-based solutions. As a Senior Software Engineer, I am proficient in various cloud platforms, including AWS, Azure, and Google Cloud, and I thrive on designing scalable and cost-effective cloud architectures.
+I enjoy collaborating with cross-functional teams, mentoring junior developers, and driving continuous improvement within the organization.
+
+⚡ Fun fact: I'm a Tech enthusiast and enjoy exploring specialty in software engineering company around the world!
+
+Let's connect and discuss exciting about projects or anything related to web/app development. Feel free to reach out to me if you're looking for a Senior Frontend/backend/cloud expert or simply want to geek out about the latest tech trends!
 
 #### Skills & Technologies
 
@@ -23,15 +28,6 @@ I have a strong background in cloud computing and extensive experience in archit
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
 
 
-
-#### About Me
-
-I am deeply passionate about leveraging cloud technologies and software development to build scalable and high-performance applications. 
-My expertise in cloud architecture and DevOps practices enables me to deliver robust and reliable solutions that meet business objectives. I enjoy collaborating with cross-functional teams, mentoring junior developers, and driving continuous improvement within the organization.
-
-⚡ Fun fact: I'm a Tech enthusiast and enjoy exploring specialty in software engineering company around the world!
-
-Let's connect and discuss exciting about projects or anything related to web/app development. Feel free to reach out to me if you're looking for a Senior Frontend/backend/cloud expert or simply want to geek out about the latest tech trends!
 
 Let's build and deploy exceptional cloud-powered applications together! 🚀
 
